@@ -35,9 +35,9 @@ The cipher was tested using the **Pearson Correlation Coefficient** to measure r
 
 | Algorithm | Correlation Coefficient | Performance |
 | :--- | :--- | :--- |
-| **Custom 16-Step CA** | **~0.002** | [cite_start]**Near-zero correlation (Best)** [cite: 89] |
-| AES-256 | ~0.03 | [cite_start]Standard statistical randomness [cite: 89] |
-| DES | ~0.08 | [cite_start]Consistently outperformed by Custom CA [cite: 89] |
+| **Custom 16-Step CA** | **~0.002** | [cite_start]**Near-zero correlation (Best)**  |
+| AES-256 | ~0.03 | [cite_start]Standard statistical randomness  |
+| DES | ~0.08 | [cite_start]Consistently outperformed by Custom CA  |
 
 > "This work validates the potential of combining hyper-chaotic systems with complex CA architectures to create secure, high-entropy cryptographic primitives." 
 
