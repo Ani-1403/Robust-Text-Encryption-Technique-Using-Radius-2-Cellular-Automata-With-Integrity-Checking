@@ -1,0 +1,2 @@
+# Robust-Text-Encryption-Technique-Using-Radius-2-Cellular-Automata-With-Integrity-Checking
+This project introduces a symmetric block cipher merging Cellular Automata (CA) and Chaos Theory. By using a 16-step reversible CA with a 5-bit neighborhood and a Logistic Map for dynamic key scheduling, it achieves high entropy and a strong avalanche effect. It rivals AES &amp; DES performance, ensuring robust security via hyper-chaotic systems.
